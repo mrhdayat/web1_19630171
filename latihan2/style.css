@@ -1,0 +1,24 @@
+h1{
+    color: darkorange;
+}
+.kotak{
+    background-color: blue;
+    color: whitesmoke;
+    width: 100px;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    float: left;
+    font-weight: bold;
+}
+
+#kotak{
+    background-color: crimson;
+    color:whitesmoke;
+    width: 100px;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    float: left;
+    font-weight: bold;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan HTML</title>
+</head>
+<body>
+    <h1>Latihan HTML 1</h1>
+    <table border="1">
+        <tr style="background-color: aqua;">
+            <th colspan="3"><u>Biodata Diri</u></th>
+        </tr>
+        <tr>
+            <td><b>Foto</b></td>
+            <td>:</td>
+            <td><img src="fotodiri.jpg" alt="Muhammad Edya Rosadi" height="400" width="300"></td>
+        </tr>
+        <tr>
+            <td><b>Nama</b></td>
+            <td>:</td>
+            <td>Muhammad Edya Rosadi</td>
+        </tr>
+        <tr>
+            <td><b>NPM</b></td>
+            <td>:</td>
+            <td>19.63.0001</td>
+        </tr>
+        <tr>
+            <td><b>TTL</b></td>
+            <td>:</td>
+            <td>Banjarmasin, 01/01/1999</td>
+        </tr>
+        <tr>
+            <td><b>Hobi</b></td>
+            <td>:</td>
+            <td>
+                <ul>
+                    <li>Ngoding</li>
+                    <li>Mancing</li>
+                    <li>Gowes</li>
+                    <li>Futsal</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Alamat</b></td>
+            <td>:</td>
+            <td>Jalan Adhyaksa No.2 Kayutangi Banjarmasin</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Link</b></td>
+            <td rowspan="2">:</td>
+            <td><a href="https://www.sikidal.com">Link Web</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.instagram.com/edyarosadi">Link Instagram</a></td>
+        </tr>
+    </table>
+</body>
+</html>
